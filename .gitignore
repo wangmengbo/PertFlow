@@ -1,0 +1,12 @@
+*.out
+*.pyc
+final_results/
+final_outputs/
+final_inference/
+final_visualize/
+src/*.out
+src/*.sh
+__pycache__/
+data
+drug
+old
